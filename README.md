@@ -15,3 +15,8 @@ Various sources if Help are available
 
 Raspail F, Austerlitz F, Mariette S, Le Corre V, Machon N, Baradat D, Gouyon P-H, Godelle B, Kremer A, Garnier-Géré P. gMetapop, a software for simulating the evolution of genes and traits in subdivided populations in species with complex demographic features. in preparation 
 
+## License ##
+
+The content of this repository is licensed under <A HREF="https://choosealicense.com/licenses/gpl-3.0/">(GNU GPLv3)</A> 
+
+
