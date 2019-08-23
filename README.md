@@ -4,12 +4,11 @@ Forward simulation software for genes and phenotypes in subdivided populations w
 ## Overview ##
 
 ## Help ##
-Various sources if Help are available
-1) Garnier-Géré P, Austerlitz F, Mariette S, Raspail F. User Help documentation, 50 pages 
-2) Tooltips on the GUI
-3) validated tests with examples files for loading into the GUI, conf.txt and type.txt file for launching simulations, results files
-
-
+Various sources of Help are available - see Help option on the GUI Menu
+1) Default parameter values proposed in the GUI
+2) Tooltips describing Tabs and parameters within the GUI
+3) Garnier-Géré P, Austerlitz F, Mariette S, Raspail F. User Manual, XX pages 
+4) Step by step guide to reproduce simulation tests with examples files for loading into the GUI, configuration files for launching simulations, results files and post-treatment examples (R function for plotting results)
 
 ## How to cite gMetapop? ##
 
