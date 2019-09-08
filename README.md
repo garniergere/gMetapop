@@ -1,14 +1,14 @@
 # gMetapop
-Forward simulation software for genes and phenotypes in subdivided populations with complex demographic features
+A forward simulation software for modelling genes and phenotypes in subdivided populations of species with complex demographic features.
 
 ## Overview ##
 
 ## Help ##
 Various sources of Help are available - see Help option on the GUI Menu
 1) Default parameter values proposed in the GUI
-2) Tooltips describing Tabs and parameters within the GUI
-3) Garnier-Géré P, Austerlitz F, Mariette S, Raspail F. User Manual, XX pages 
-4) Step by step guide to reproduce simulation tests with examples files for loading into the GUI, configuration files for launching simulations, results files and post-treatment examples (R function for plotting results)
+2) Tooltips describing tabs and parameters within the GUI
+3) Garnier-Géré P, Austerlitz F, Mariette S, Raspail F. User Manual in construction
+4) Tutorials to reproduce simulation tests with examples files for loading into the GUI, configuration files for launching simulations, results files and post-treatment examples (Chapter 5 of User Manual, and see all files provided at ...)
 
 ## How to cite gMetapop? ##
 
