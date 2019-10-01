@@ -8,7 +8,7 @@ Different types of genes (neutral or under selection) can be simulated, in popul
 
 One main advantage of this tool is its flexible Graphical User Interface (GUI) available under Windows and Linux OS. The GUI aims at replacing the cumbersome process of building the large configuration parameter files needed for elaborate evolutionary scenarios. The users can therefore focus on their biological model. The GUI makes also the program a great learning tool for basic evolutionary processes.
 
-Two main components constitute the program: 
+Two main components constitute the program:  
 
 •	gMetapop_GUI, the interface program which guides the user for designing simulations, launching them, and getting results graphical overview. Technically, the GUI creates an .xml parameter configuration file (param hereafter) with all initial settings and files needed for a simulation run.
 
