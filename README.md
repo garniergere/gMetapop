@@ -2,7 +2,7 @@
 A flexible forward simulation program for modelling the evolution of genes and phenotypes in subdivided populations of species with complex demographic features.
 
 ## Overview ##
-gMetapop is an individual-based program. Individuals are characterized by their genotype at many loci and/or by their phenotype at a given trait coded by QTL. 
+gMetapop is an individual-based program. Individuals are characterized by their genotype at many loci and/or by their phenotype at a given trait coded by  QTL. 
 
 Different types of genes (neutral or under selection) can be simulated, in populations connected by gene flow via zygote migration (e.g. seeds) or male gamete migration (e.g. pollen flow). Demographic models with overlapping generations are easily simulated (e.g. perennial species such as trees with an age class structure), complex mating systems including selfing and clonal reproduction also. Selection can be applied within and among populations, either on a phenotypic trait or directly by assigning fitness values to each genotype. The total number of loci, individuals, populations and/or reproductive events is only limited by the users’ hardware capacities. 
 
