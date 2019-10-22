@@ -1,1 +1,0 @@
-Give examples files for mutation rates to load in the Genome Tab GUI
