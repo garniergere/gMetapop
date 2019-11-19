@@ -25,7 +25,7 @@ Various sources of Help are available
 •	Tooltips appear on screen that describe tabs and parameters within the GUI, when moving the “mouse” on the each sub-window/group-box part of the GUI in a Tab. Tooltips are small texts providing definitions and main use of the corresponding GUI options, for a rapid and intuitive appraisal of particular aspects of the modelled processes (see more explanations in Chapter 3 User Manual for each GUI option). 
 
 •	Tutorials to reproduce simulation test series 1 to 12 are given in Chapter 5 of the User Manual <A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual"> here</A>. All the files of each test folders can also be downloaded <A HREF="https://github.com/gMetapop/gMetapop/tree/master/4-Simulation.Examples"> here</A>:
-See the corresponding *param* files to load into the GUI, the configuration file "conf.txt" and type of result file "type.txt" for launching simulations, and various types of results files depending on the scenarios simulated. Some of these *param* files might be better starting points than default parameters in some cases.
+See the corresponding *param* .xml files to load into the GUI, the configuration file "conf.txt" and type of result file "type.txt" for launching simulations, and various types of results files depending on the scenarios simulated. Some of these *param* files might be better starting points than default parameters in some cases.
 
 •	Finally, more explanations can be found in the User Manual on different GUI features and processes modelled in gMetapop_CORE (Chapter 3), on all input and output files (Chapter 4), and on detailed step by step procedure for building param configuration files (Chapter 5). 
 
