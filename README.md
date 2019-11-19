@@ -14,6 +14,9 @@ Two main components constitute the program:
 
 •	gMetapop_CORE, the program that takes these files as input to perform the simulations. gMetapop_CORE can be launched directly from the GUI or using command lines under Linux or Windows DOS command prompt. gMetapop_CORE initially stemmed from previous programs that included separate and complementary features (Le Corre et al., 1997; Austerlitz et al. 2000; Machon et al., 2003; Austerlitz & Garnier-Géré 2003; Le Corre and Kremer, 2003). However in this first release, 88% of the whole program code is new (70%) or has been largely modified or extended (18%). 
 
+## Download ##
+To be completed
+
 ## Help ##
 Various sources of Help are available 
 
