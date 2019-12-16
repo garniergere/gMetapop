@@ -6,7 +6,7 @@ gMetapop is an individual-based program. Individuals are characterized by their 
 
 Different types of genes (neutral or under selection) can be simulated, in populations connected by gene flow via zygote migration (e.g. seed flow) or male gamete migration (e.g. pollen flow). Demographic models with overlapping generations are easily simulated (e.g. perennial species such as trees with an age class structure), complex mating systems including selfing and clonal reproduction also. Selection can be applied within and among populations, either on a phenotypic trait or directly by assigning fitness values to each genotype. The total number of loci, individuals, populations and/or reproductive events is only limited by the users’ hardware capacities. 
 
-One main advantage of this tool is its flexible Graphical User Interface (GUI), available under Windows and Linux OS (see Download below). The GUI aims at replacing the cumbersome process of 1) building the large (or many) configuration parameter files which are needed for even relatively simple evolutionary scenarios, and of 2) creating the correct formats for various input data files needed for starting simulations. The users can therefore focus on their biological model. Thanks to the GUI, the simulator can also serve as a great learning/teaching tool for understanding evolutionary processes and their interactions.
+One main advantage of this tool is its flexible Graphical User Interface (GUI), available under Windows and Linux OS (see Download (download-section)). The GUI aims at replacing the cumbersome process of 1) building the large (or many) configuration parameter files which are needed for even relatively simple evolutionary scenarios, and of 2) creating the correct formats for various input data files needed for starting simulations. The users can therefore focus on their biological model. Thanks to the GUI, the simulator can also serve as a great learning/teaching tool for understanding evolutionary processes and their interactions.
 
 Two main components constitute the program:  
 
@@ -14,7 +14,7 @@ Two main components constitute the program:
 
 •	gMetapop_CORE, the program that takes these files as input to perform the simulations. gMetapop_CORE can be launched directly from the GUI or using command lines under Linux or Windows DOS command prompt. gMetapop_CORE initially stemmed from previous programs that included separate and complementary features (Le Corre et al., 1997; Austerlitz et al. 2000; Machon et al., 2003; Austerlitz & Garnier-Géré 2003; Le Corre and Kremer, 2003). However in this first release, 88% of the whole program code is new (70%) or has been largely modified or extended (18%). 
 
-## Download ##
+#Download Section 
 To be completed
 
 ## Help ##
