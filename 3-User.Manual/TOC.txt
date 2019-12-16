@@ -110,13 +110,13 @@ CONTENTS
   5.3.2 TEST 3bis: Dirichlet
  5.4 TEST 4 : Overlapping generations: comparison with published results
  5.5 TEST 5 : 1D and 2D Stepping-Stone migration models
- 5.6 TESTs 6 : Comparison of neutral and phenotypic selection scenarios with different life-cycles and variances in fecundities. 
- 5.7 TEST 7 : Selection on genotypes 1
- 5.8 TEST 8 : Selection on genotypes 2
+ 5.6 TEST 6 : Comparison of neutral and phenotypic selection scenarios with different life-cycles and variances in fecundities. 
+ 5.7 TEST 7 : Strong selection on genotypes
+ 5.8 TEST 8 : Weak selection on genotypes 
  5.9 TEST 9 : Comparison of trait variance estimates
- 5.10 TEST 10 :  test Recombinaison plutôt que quanti?? Ou interaction migration selection en Quanti ?
- 5.11 TEST 11 : Combination of clonal and mixed mating systems.
- 5.12 TEST 12 : Drift on loci with maternal (or paternal) inheritance.
+ 5.10 TEST 10 :  Interaction between migration and selection
+ 5.11 TEST 11 : Combination of clonal and mixed mating systems
+ 5.12 TEST 12 : Drift on loci with maternal (or paternal) inheritance
 6. REFERENCES CITED
 Appendix: Trouble shooting / ERROR Management
 
