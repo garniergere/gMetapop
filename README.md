@@ -1,7 +1,7 @@
 # gMetapop
 A flexible forward simulation program for modelling the evolution of genes and phenotypes in subdivided populations of species with complex demographic features.
 
-## Go to gMetapop website  <A HREF=""</A> 
+Go to ## gMetapop ## website  <A HREF="https://github.com/gMetapop/gMetapop"</A> 
 
 ## How to cite gMetapop? ##
 
