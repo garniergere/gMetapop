@@ -38,8 +38,8 @@ Raspail F, Austerlitz F, Mariette S, Le Corre V, Machon N, Baradat D, Gouyon P-H
 The content of this repository is licensed under <A HREF="https://choosealicense.com/licenses/gpl-3.0/">(GNU GPLv3)</A> 
 
 ## Contacts ##
-Pauline Garnier-Géré pauline.garnier-gere@inra.fr 
+Pauline Garnier-Géré pauline.garnier-gere@inrae.fr 
 
-Frédéric Raspail frederic.raspail@inra.fr
+Frédéric Raspail frederic.raspail@inrae.fr
 
 
