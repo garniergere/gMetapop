@@ -15,7 +15,11 @@ Two main components constitute the program:
 •	gMetapop_CORE, the program that takes these files as input to perform the simulations. gMetapop_CORE can be launched directly from the GUI or using command lines under Linux or Windows DOS command prompt. gMetapop_CORE initially stemmed from previous programs that included separate and complementary features (Le Corre et al., 1997; Austerlitz et al. 2000; Machon et al., 2003; Austerlitz & Garnier-Géré 2003; Le Corre and Kremer, 2003). However in this first release, 88% of the whole program code is new (70%) or has been largely modified or extended (18%). 
 
 ## Download Section 
-To be completed
+
+• Files to install gMetapop_GUI can be downloaded here
+• Files to install gMetapop_CORE can be downloaded <A HREF="https://github.com/gMetapop/gMetapop/tree/master/2"> here</A>
+•	All files for each tutorial can also be downloaded from <A HREF="https://github.com/gMetapop/gMetapop/tree/master/5-Tutorials"> here</A>
+•	Additional format examples can be seen <A HREF="https://github.com/gMetapop/gMetapop/tree/master/4-Format.Examples"> here</A>
 
 ## Help ##
 Various sources of Help are available 
