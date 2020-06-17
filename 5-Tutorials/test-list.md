@@ -1,5 +1,5 @@
 ## List of tutorials 
-(described in details in the User Manual Chapter 5)
+(described in details in Chapter 5 of the  User Manual )
 
 5.1 Tests 1 : DRIFT 
 
