@@ -8,8 +8,10 @@
 5.1.2 DRIFT on loci with maternal (or paternal) inheritance
 
 5.2 Tests 2: Mutation and Dirichlet
-5.2.1 Mutation
-5.2.2 Dirichlet
+
+       5.2.1 Mutation
+       5.2.2 Dirichlet
+       
 5.3 Tests 3 : Drift/migration/mutation equilibrium in a structured population and genetic differentiation estimates
 5.4 Tests 4 : 1D and 2D Stepping-Stone migration models
 5.5 Tests 5 : Strong selection on genotypes
