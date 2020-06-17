@@ -1,7 +1,12 @@
-## List of tutorials described in details in the Chapter 5 of the User Manual of gMetapop
+## List of tutorials 
+(described in details in the User Manual Chapter 5)
+
 5.1 Tests 1 : DRIFT 
+
 5.1.1 DRIFT on nuclear loci 
+
 5.1.2 DRIFT on loci with maternal (or paternal) inheritance
+
 5.2 Tests 2: Mutation and Dirichlet
 5.2.1 Mutation
 5.2.2 Dirichlet
