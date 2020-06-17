@@ -16,8 +16,8 @@ Two main components constitute the program:
 
 ## Download Section 
 
-• Files to install gMetapop_GUI can be downloaded here
-• Files to install gMetapop_CORE can be downloaded <A HREF="https://github.com/gMetapop/gMetapop/tree/master/2"> here</A>
+• Files to install gMetapop_CORE can be downloaded <A HREF="https://github.com/gMetapop/gMetapop/tree/master/1-CORE.for.download"> here</A>
+• Files to install gMetapop_GUI can be downloaded <A HREF="https://github.com/gMetapop/gMetapop/tree/master/2-GUI.for.download"> here</A>
 •	All files for each tutorial can also be downloaded from <A HREF="https://github.com/gMetapop/gMetapop/tree/master/5-Tutorials"> here</A>
 •	Additional format examples can be seen <A HREF="https://github.com/gMetapop/gMetapop/tree/master/4-Format.Examples"> here</A>
 
