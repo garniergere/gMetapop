@@ -1,0 +1,2 @@
+To download both zip files, just click on each of them and then click Download (upper right in the Menu). 
+Both are needed to follow the 5.5.1 tutorial in Chapter 5 of the User Manual.
