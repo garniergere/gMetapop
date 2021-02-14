@@ -1,2 +1,2 @@
-Each tutorial zip can be downloaded separately in the corresponding folders
-For downloading all folders at once, simply 
+All files for each tutorial can be downloaded separately from each corresponding folder
+You can also download the minimum set of files necessary for recreating all configuration param xml files of the different tutorials. These files are available in the minimum.set.for.tutorials.zip located here. 
