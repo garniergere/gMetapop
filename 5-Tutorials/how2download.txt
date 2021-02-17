@@ -1,3 +1,0 @@
-All files and sub-folders for each tutorial can be downloaded separately from each corresponding folder.
-You can also download the minimum set of files necessary for recreating all configuration param xml files of the different tutorials.
-These files are available in the recreate.xml.minimum.set.zip located here. 
