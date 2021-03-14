@@ -16,7 +16,7 @@ Two main components constitute the program:
 
 ## Download Section 
 
-• Files for installing gMetapop_CORE can be downloaded <A HREF="https://github.com/gMetapop/gMetapop/tree/master/1-CORE.for.download"> here</A> and files for installing gMetapop_GUI can be downloaded <A HREF="https://github.com/gMetapop/gMetapop/tree/master/2-GUI.for.download"> here</A>, see the <A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual">User Manual</A> for instructions.
+• Standalone gMetapop executables files for Linux and Windows OS with all files needed without any installation required can be found <A HREF="https://github.com/gMetapop/gMetapop/tree/master/1-GUI+CORE.exe.for.download"> here</A>. Source files for both GUI and CORE gMetapop can be downloaded <A HREF="https://github.com/gMetapop/gMetapop/tree/master/2-GUI+CORE.src.for.download"> here</A>, see also the <A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual">User Manual</A> for instructions.
 
 •	All files for each tutorial can also be downloaded from <A HREF="https://github.com/gMetapop/gMetapop/tree/master/5-Tutorials"> here</A>
 
