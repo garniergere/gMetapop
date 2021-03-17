@@ -1,5 +1,5 @@
 # gMetapop
-A flexible forward simulation program for modelling the evolution of genes and phenotypes in subdivided populations of species with complex demographic features.
+A process-based forward simulator with an intuitive Graphical User Interface integrating multi-locus genetics and complex age class structure demography in subdivided populations.
 
 ## Overview ##
 gMetapop is an individual-based program. Individuals are characterized by their genotype at many loci and/or by their phenotype at a given trait coded by  QTL. 
