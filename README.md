@@ -36,7 +36,7 @@ See the corresponding *param* .xml files to load into the GUI, the configuration
 
 ## How to cite gMetapop? ##
 
-Raspail F, Austerlitz F, Mariette S, Le Corre V, Machon N, Baradat D, Gouyon P-H, Godelle B, Kremer A, Garnier-Géré P. gMetapop, a software for simulating the evolution of genes and traits in subdivided populations of species with complex demographic features. in preparation 
+Raspail F, Austerlitz F, Mariette S, Machon N, Le Corre V, Baradat D, Gouyon P-H, Godelle B, Kremer A, Garnier-Géré P. gMetapop: : a process-based forward simulator with an intuitive GUI integrating multi-locus genetics and complex age class structure demography in subdivided populations. in preparation 
 
 ## License ##
 
