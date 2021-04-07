@@ -32,7 +32,10 @@ Various sources of Help are available
 •	Tutorials to reproduce simulation test series 1 to 10 are provided in Chapter 5 of the User Manual <A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual"> here</A>. All files for each tutorial can also be downloaded from <A HREF="https://github.com/gMetapop/gMetapop/tree/master/5-Tutorials"> here</A>:
 See the corresponding *param* .xml files to load into the GUI, the configuration file "conf.txt" and type of result file "type.txt" for launching simulations, and various types of results files depending on the scenarios simulated. Some of these *param* files might be better starting points than default parameters in some cases.
 
-•	Finally, more explanations can be found in the User Manual on different GUI features and processes modelled in gMetapop_CORE (Chapter 3), on all input and output files (Chapter 4), and on detailed step by step procedure for building param configuration files (Chapter 5). 
+•	More explanations can be found in the User Manual on different GUI features and processes modelled in gMetapop_CORE (Chapter 3), on all input and output files (Chapter 4), and on detailed step by step procedure for building param configuration files (Chapter 5). 
+
+•	Finally, an online appendix provides more help on possible errors, with error messages being listed and described in more details according to user's feedback.  
+
 
 ## How to cite gMetapop? ##
 
