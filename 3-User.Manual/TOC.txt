@@ -1,33 +1,34 @@
 gMetapop USER MANUAL 
+version 1.0.0
 
-Authors
-Garnier-Géré Pauline (pauline.garnier-gere@inra.fr)
+Authors:
+Garnier-Géré Pauline (pauline.garnier-gere@inrae.fr)
 Austerlitz Frédéric 
 Mariette Stéphanie 
-Raspail Frédéric (Frederic.Raspail@inra.fr).
+Raspail Frédéric (Frederic.Raspail@inrae.fr)
 
 CONTENTS
 1. CHAPTER 1	Introduction and overview
  1.1 Scope and aim of the simulation program with an interface
-  1.2 Technical features/ Operating systems
+  1.2 Technical features - Operating systems
   1.3 Access and License
   1.4 gMetapop: how does it work? A simulation overview and main features
 2. CHAPTER 2 	How to get started?
- 2.1 Installation 
- 2.2 gMetapop_CORE for Linux OS compiling procedure
- 2.3 Launching simulations 
+ 2.1 Installation and starting gMetapop_GUI
+ 2.2 gMetapop_CORE for Linux OS 
+ 2.3 Launching gMetapop_CORE simulations 
  2.4 How to get help?
  2.5 Input and Output files
-3. CHAPTER 3 	Building the *.xml file with gMetapop_GUI
+3. CHAPTER 3 	Building the *.xml file with gMetapop_GUI and modelling demographic and selection processes
  3.0 GUI File Menu
  3.1 Initial Settings
  3.2 Genome Tab
-  3.2.1 Cytoplasmic loci 
-  3.2.2 Nuclear loci
-  3.2.3 Nuclear loci genetic map
+  3.2.1 Cytoplasmic loci and mutation rates
+  3.2.2 Nuclear loci and mutation rates
+  3.2.3 Nuclear loci genetic map and recombination rates
    3.2.3.1 Chromosome Builder
    3.2.3.2 Load Map
-  3.2.4 More information
+  3.2.4 More information on underlying models
    3.2.4.1 Mutation rates
    3.2.4.2 Recombination rates
    3.2.4.3 Simulating dominant marker loci
@@ -41,21 +42,25 @@ CONTENTS
    3.3.4.3 Format description of Input Genotype file
  3.4 Selection Tab
   3.4.1 No selection
-  3.4.2 Selection on Phenotypes
-  3.4.3 Selection on Genotypes
-  3.4.4 Hard or soft selections
-  3.4.5 More information
-   3.4.5.1 Modelling optimizing selection
-   3.4.5.2 Applying selection among populations
+  3.4.2 Selection 
+    3.4.2.1 Selection on Phenotypes
+    3.4.2.2 Selection on Genotypes
+  3.4.3 Hard or soft selection
+  3.4.4 More information on selection processes
+   3.4.4.1 Application of selection and building offspring genotypes
+   3.4.4.2 Fitness values and modelling optimizing selection
+   3.4.4.3 Applying divergent selection among populations
  3.5 Demography Tab
   3.5.1 Population size parameters
+   3.5.1.1 Initial number of individuals in each population and each class 
+   3.5.1.2 Generating the number of offspring  in each population and each class
   3.5.2 Mating system
   3.5.3 Extended Lefkovitch matrix - Class parameters 
   3.5.4 Migration models 
-  3.5.5 More information 
+  3.5.5 More information on demography, mating systems and migration models
    3.5.5.1 Zygote migration models
    3.5.5.2 Male gamete migration models
-   3.5.5.3 Modelling spatial structure?
+   3.5.5.3 Flexibility of the demographic model
    3.5.5.4 Demography with non-overlapping generations
    3.5.5.5 Demography with overlapping generations
    3.5.5.6 Male and female fecundity and link to the application of selection
@@ -65,18 +70,18 @@ CONTENTS
   3.6.2 Distribution of additive values 
   3.6.3 Distribution of weights attributed to each QTL
   3.6.4 Computed weight values 
-  3.6.5 Environmental Variance
-  3.6.6 More information
+  3.6.5 Environmental effects
+  3.6.6 More information on the quantitative genetic model
  3.7 Output Tab
-  3.7.1 Total number of reproductive events
+  3.7.1 Total number of reproductive (or demographic) events
   3.7.2 Rules for computing statistics
   3.7.3 Time steps for extracting summary statistics and sampling genotypes 
   3.7.4 Extracting sample files for further computation
   3.7.5 List of available statistics
   3.7.6 More information on summary statistics 
    3.7.6.1 Genetic Diversity within and between populations
-   3.7.6.2 Population dynamics
-   3.7.6.3 Additive Variance 
+   3.7.6.2 Population dynamics and demographi statistics
+   3.7.6.3 Additive Variances 
  3.8 Run Tab
   3.8.1 Working directory
   3.8.2 Saving the parameter *.xml file 
@@ -84,39 +89,50 @@ CONTENTS
   3.8.4 Type of result file: type.txt
   3.8.5 Log file creation window
   3.8.6 Prepare configuration files
-  3.8.7 Run gMetapop
+  3.8.7 Run gMetapop_CORE
    3.8.7.1 Directly after creating a new param file
    3.8.7.2 After re-opening a previous param file
    3.8.7.3 From the Run Tab using previous conf.txt and type.txt files
    3.8.7.4 Using command lines
   3.8.8 Run log window
-  3.8.9 Plotting simulation results with R
-    3.8.9.1 Default plots
-    3.8.9.2 Custom plots
-  3.8.10 More information
-    3.8.10.1 Random Number Generators
-    3.8.10.2 Redoing the same simulations
+ 3.9 Plotting simulation results with R
+    3.9.1 Default plots
+    3.9.2 Custom plots
+ 3.10 More information on the use of random number generators
+    3.10.1 Pseudorandom Number Generators (PRNGs)
+    3.10.2 Replicating simulations or redoing the same simulations
 4. CHAPTER 4 	Input and Output files
- 4.1 Initial genotype files and conditions at the start of simulations
- 4.2 Input parameter files loaded into the GUI
+ 4.1 Initial genotype files and conditions 
+ 4.2 Default values and input parameter files loaded into the GUI
  4.3 Files created in the working folder
   4.3.1 When preparing a simulation, before running it
+  	4.3.1.1 Compulsory files needed to run a simulation
+   4.3.1.2 Additional files
+   4.3.1.3 PRNG files
   4.3.2 During or after launching a simulation
  4.4 Description of Output result files and summary statistics
 5. CHAPTER 5 	Evolutionary scenarios: testing gMetapop by comparing simulated results with theory or published results. 
- 5.1 TEST 1 : Drift 
- 5.2 TEST 2 : Drift/migration/mutation equilibrium in a structured population and genetic differentiation estimates.
-  5.3.1 TEST 3 : Mutation
-  5.3.2 TEST 3bis: Dirichlet
- 5.4 TEST 4 : Overlapping generations: comparison with published results
- 5.5 TEST 5 : 1D and 2D Stepping-Stone migration models
- 5.6 TEST 6 : Comparison of neutral and phenotypic selection scenarios with different life-cycles and variances in fecundities. 
- 5.7 TEST 7 : Strong selection on genotypes
- 5.8 TEST 8 : Weak selection on genotypes 
- 5.9 TEST 9 : Comparison of trait variance estimates
- 5.10 TEST 10 :  Interaction between migration and selection
- 5.11 TEST 11 : Combination of clonal and mixed mating systems
- 5.12 TEST 12 : Drift on loci with maternal (or paternal) inheritance
+ 5.1 Tests 1 : DRIFT 
+  5.1.1 DRIFT on nuclear loci 
+  5.1.2 DRIFT on loci with maternal (or paternal) inheritance
+ 5.2 Tests 2: Mutation and Dirichlet
+  5.2.1 Mutation
+  5.2.2 Dirichlet
+ 5.3 Tests 3 : Drift/migration/mutation equilibrium in a structured population and genetic differentiation estimates
+ 5.4 Tests 4 : 1D and 2D Stepping-Stone migration models
+ 5.5 Tests 5 : Strong selection on genotypes
+	 5.5.1 Additive and dominant models
+		 5.5.1.1 Preliminary runs
+		 5.5.1.2 Complete runs
+	 5.5.2 Recessive model
+ 5.6 Tests 6 : Weak selection on genotypes 
+ 5.7 Tests 7 : Selection on phenotypes: comparison of trait variance estimates
+ 5.8 Tests 8 : Complex demography: combination of clonal and mixed mating systems
+ 5.9 Test 9 : Complex demography with overlapping generations: comparison with published results
+	 5.9.1 Preliminary runs
+	 5.9.2 Complete runs
+ 5.10 Tests 10 : Complex demography: comparison of neutral and phenotypic selection scenarios with different life-cycles and variances in fecundities 
+  5.10.1 Different initial demographic conditions
+  5.10.2 Overlapping versus non-overlapping generations and variances in fecundities
+  5.10.3 Very large variance when generating the number of offspring
 6. REFERENCES CITED
-Appendix: Trouble shooting / ERROR Management
-
