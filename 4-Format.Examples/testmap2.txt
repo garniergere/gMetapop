@@ -1,5 +1,4 @@
 Codominant loci 1 :  0 0 1 1 0 0 1 1 0 0 0 1 0 1 1 0 1 1 0 1
-Dominant loci :  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 Selected nuclear     loci (0=neutral, 1=selected) :  1 1 0 0 1 1 0 0 1 1 1 0 1 0 0 1 0 0 1 0
 Selected cytoplasmic loci (0=neutral, 1=selected) :
 Recombination rates between the nuclear loci : 	0.01 5.000e-002 5.000e-003 5.000e-001 5.000e-001 5.000e-004 5.000e-001 5.000e-001 5.000e-001 5.000e-001 5.000e-001 5.000e-001 5.000e-001 5.000e-001 5.000e-001 5.000e-001 5.000e-001 5.000e-001 5.000e-001 5.000e-001 
