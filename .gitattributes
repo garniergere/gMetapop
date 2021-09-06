@@ -1,2 +1,4 @@
 *.3 linguist-documentation
 $ cat .gitattributes
+*.r linguist-detectable=true
+*.c linguist-detectable=true
