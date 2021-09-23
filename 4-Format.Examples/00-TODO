@@ -1,5 +1,6 @@
 
 add example of text files to load into the GUI or refer to tutorials with link in readme text
+* GENO file with comments
 * fitness values for Selection Tab
 * selection within pop / optimal pheno values
 * Gene flow matrices
