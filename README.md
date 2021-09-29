@@ -39,7 +39,7 @@ See the corresponding *param* .xml files to load into the GUI, the configuration
 
 ## How to cite gMetapop? ##
 
-Raspail F, Austerlitz F, Mariette S, Machon N, Le Corre V, Baradat D, Gouyon P-H, Godelle B, Kremer A, Garnier-Géré P (2021) gMetapop: : a process-based forward simulator with an intuitive GUI integrating multi-locus genetics and complex age class structure demography in subdivided populations. In preparation 
+Raspail F, Austerlitz F, Mariette S, Machon N, Le Corre V, Baradat D, Gouyon P-H, Godelle B, Kremer A, Garnier-Géré P (2021) gMetapop: a process-based forward simulator with an intuitive GUI integrating multi-locus genetics and complex age class structure demography in subdivided populations. In preparation 
 
 ## License ##
 
