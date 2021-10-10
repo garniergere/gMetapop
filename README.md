@@ -1,5 +1,5 @@
 # gMetapop
-A process-based forward simulator with an intuitive Graphical User Interface integrating multi-locus genetics and complex age class structure demography in subdivided populations.
+A process-based forward simulator with an intuitive Graphical User Interface integrating multi-locus genetics and complex age-class structure and demography in subdivided populations.
 
 ## Overview ##
 gMetapop is an individual-based program that includes an intuitive Graphical User Interface (GUI) for choosing the configuration of evolutionary scenarios. These scenarios range from very simple to very complex, allowing for different types of selection and age class structure demography in subdivided populations. **The main steps for running a simulation are summarized <A HREF= "gMetapop-overview-Fig.1-4.pdf"> here </A>**, and **a typical life cycle in gMetapop with possible overlapping generations can be seen <A HREF= "gMetapop-life-cycle-Fig.3.pdf"> here</A>** (see the **User Manual <A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual"> here</A>** for detailed legends on those figures).
