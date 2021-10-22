@@ -1,5 +1,6 @@
 # gMetapop
 A process-based forward simulator with an intuitive Graphical User Interface integrating multi-locus genetics and complex age-class structure and demography in subdivided populations.
+
 [![DOI](https://zenodo.org/badge/207145378.svg)](https://zenodo.org/badge/latestdoi/207145378)
 
 ## Overview ##
