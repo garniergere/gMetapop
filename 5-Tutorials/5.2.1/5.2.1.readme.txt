@@ -1,3 +1,3 @@
-For this tutorial, all files have been uploaded, except the res1.txt files. 
+For this tutorial, the complete res1.txt files were not uploaded because they were too large. 
 These files here just include additional information on which loci have mutated since no demography statistics were requested.
-Since they were too large, files with only an extract for the first 125 generations were uploaded. 
+For the sake of the example, an extract of the first 125 generations have been uploaded for these files. 
