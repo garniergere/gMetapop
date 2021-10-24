@@ -1,0 +1,10 @@
+#1 #number of nuclear loci
+#0 #number of cytoplasmic loci
+#2 #maximum number of alleles at each locus
+#0;0;1;0;0;0;1;0;0;0 #number of individuals in each population , gives also the number of populations (here 10)
+pop;cla;l1al1;l1al2  # header of the genotype data: population number (=identifier), 
+                     # then class number (identifier), then allele number of locus 1 on chromosome 1 (al1)
+                     # then l1al2 is the allele number of locus 1 on chromosome 2 (al2)					 
+3;10;1;1             # pop 3 and pop 7 are the only populations in which there are respectively one and one individual.
+7;10;2;2             # in pop 3, the single individual is fixed for allele 1, 
+                     # in pop 7, the single individual is fixed for allele 7  
