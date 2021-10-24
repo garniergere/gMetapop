@@ -6,6 +6,6 @@ You can also download:
 
 2) in the param.complete.xml.all.tutos.zip --> the param xml files for the complete runs only.
 
-3) R scripts for all tutorials can be downloaded separately here.
+3) R scripts for plotting results in all tutorials can be downloaded separately <A HREF="https://github.com/gMetapop/gMetapop/tree/master/7-Plotting.R.scripts"> here</A>.
 
 Please refer to the User Manual Chapter 5 for a step-by-step guide of each tutorial.
