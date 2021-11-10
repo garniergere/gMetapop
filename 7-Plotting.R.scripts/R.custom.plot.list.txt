@@ -1,1 +1,0 @@
-Plots in gMetapop with the "custom plot" option - R script list:
