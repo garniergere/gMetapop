@@ -1,4 +1,4 @@
-# R script list for custom plots of the tutorials:
+# R script list for custom plots (as described in the Chapter V tutorials) :
 
 
 
