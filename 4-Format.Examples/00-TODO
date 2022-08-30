@@ -1,7 +1,0 @@
-
-add example of text files to load into the GUI or refer to tutorials with link in readme text
-* GENO file with comments, add also a more complex one that in test9
-* fitness values for Selection Tab
-* selection within pop / optimal pheno values
-* Gene flow matrices
-* Relative weight values for QTLs
