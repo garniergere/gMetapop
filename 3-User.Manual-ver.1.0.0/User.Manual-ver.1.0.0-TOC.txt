@@ -10,11 +10,11 @@ Raspail Frédéric (Frederic.Raspail@inrae.fr)
 CONTENTS
 1. CHAPTER 1	Introduction and overview
  1.1 Scope and aim of the simulation program with an interface
-  1.2 Technical features - Operating systems
-  1.3 Access and License
-  1.4 gMetapop: how does it work? A simulation overview and main features
+ 1.2 Technical features - Operating systems
+ 1.3 Access and License
+ 1.4 gMetapop: how does it work? A simulation overview and main features
 2. CHAPTER 2 	How to get started?
- 2.1 Installation and starting gMetapop_GUI
+ 2.1 Installing and starting gMetapop_GUI
  2.2 gMetapop_CORE for Linux OS 
  2.3 Launching gMetapop_CORE simulations 
  2.4 How to get help?
@@ -31,7 +31,7 @@ CONTENTS
   3.2.4 More information on underlying models
    3.2.4.1 Mutation rates
    3.2.4.2 Recombination rates
-   3.2.4.3 Simulating dominant marker loci
+   3.2.4.3 Simulating neutral dominant marker loci
  3.3 Genotype Tab
   3.3.1 Number of alleles
   3.3.2 Allele frequencies
@@ -53,7 +53,7 @@ CONTENTS
  3.5 Demography Tab
   3.5.1 Population size parameters
    3.5.1.1 Initial number of individuals in each population and each class 
-   3.5.1.2 Generating the number of offspring  in each population and each class
+   3.5.1.2 Generating the number of offspring in each population and each class
   3.5.2 Mating system
   3.5.3 Extended Lefkovitch matrix - Class parameters 
   3.5.4 Migration models 
@@ -80,7 +80,7 @@ CONTENTS
   3.7.5 List of available statistics
   3.7.6 More information on summary statistics 
    3.7.6.1 Genetic Diversity within and between populations
-   3.7.6.2 Population dynamics and demographi statistics
+   3.7.6.2 Population dynamics and demography statistics
    3.7.6.3 Additive Variances 
  3.8 Run Tab
   3.8.1 Working directory
@@ -96,17 +96,17 @@ CONTENTS
    3.8.7.4 Using command lines
   3.8.8 Run log window
  3.9 Plotting simulation results with R
-    3.9.1 Default plots
-    3.9.2 Custom plots
+  3.9.1 Default plots
+  3.9.2 Custom plots
  3.10 More information on the use of random number generators
-    3.10.1 Pseudorandom Number Generators (PRNGs)
-    3.10.2 Replicating simulations or redoing the same simulations
+  3.10.1 Pseudorandom Number Generators (PRNGs)
+  3.10.2 Replicating simulations or redoing the same simulations
 4. CHAPTER 4 	Input and Output files
  4.1 Initial genotype files and conditions 
  4.2 Default values and input parameter files loaded into the GUI
- 4.3 Files created in the working folder
-  4.3.1 When preparing a simulation, before running it
-  	4.3.1.1 Compulsory files needed to run a simulation
+ 4.3 Files which are created in the working folder
+  4.3.1 When preparing a simulation, just before running it
+   4.3.1.1 Compulsory files needed to run a simulation
    4.3.1.2 Additional files
    4.3.1.3 PRNG files
   4.3.2 During or after launching a simulation
@@ -121,16 +121,16 @@ CONTENTS
  5.3 Tests 3 : Drift/migration/mutation equilibrium in a structured population and genetic differentiation estimates
  5.4 Tests 4 : 1D and 2D Stepping-Stone migration models
  5.5 Tests 5 : Strong selection on genotypes
-	 5.5.1 Additive and dominant models
-		 5.5.1.1 Preliminary runs
-		 5.5.1.2 Complete runs
-	 5.5.2 Recessive model
+  5.5.1 Additive and dominant models
+   5.5.1.1 Preliminary runs
+   5.5.1.2 Complete runs
+   5.5.2 Recessive model
  5.6 Tests 6 : Weak selection on genotypes 
  5.7 Tests 7 : Selection on phenotypes: comparison of trait variance estimates
  5.8 Tests 8 : Complex demography: combination of clonal and mixed mating systems
  5.9 Test 9 : Complex demography with overlapping generations: comparison with published results
-	 5.9.1 Preliminary runs
-	 5.9.2 Complete runs
+  5.9.1 Preliminary runs
+  5.9.2 Complete runs
  5.10 Tests 10 : Complex demography: comparison of neutral and phenotypic selection scenarios with different life-cycles and variances in fecundities 
   5.10.1 Different initial demographic conditions
   5.10.2 Overlapping versus non-overlapping generations and variances in fecundities
