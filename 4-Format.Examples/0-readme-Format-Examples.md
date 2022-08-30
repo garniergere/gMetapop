@@ -8,5 +8,11 @@ testmap2.txt: genetic map which can be loaded with the Load Map option of the Ge
 
 test9_initial_geno_format_notes.txt is a simple example of a genotype data file (same format for output and input files)
 
-**Many examples of format for other types of input and output files are also provided in the <A HREF="https://github.com/gMetapop/gMetapop/tree/master/5-Tutorials"> 5-Tutorials</A> folder.**
+** Many examples of format for other types of input and output files are also provided in the <A HREF="https://github.com/gMetapop/gMetapop/tree/master/5-Tutorials"> 5-Tutorials</A> folder.**
 
+** Upcoming examples of text files
+* More complex GENOTYPE FILES with comments
+* fitness values for Selection Tab
+* selection within pop / optimal pheno values
+* Gene flow matrices
+* Relative weight values for QTLs
