@@ -1,4 +1,4 @@
-# gMetapop
+# <A HREF="https://github.com/gMetapop/gMetapop"> gMetapop </A>
 A process-based forward simulator with an intuitive Graphical User Interface integrating multi-locus genetics and complex age-class structure and demography in subdivided populations.
 
 ## Overview ##
