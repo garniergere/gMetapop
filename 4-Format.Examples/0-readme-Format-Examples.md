@@ -10,7 +10,7 @@ test9_initial_geno_format_notes.txt is a simple example of a genotype data file 
 
 ** Many examples of format for other types of input and output files are also provided in the <A HREF="https://github.com/gMetapop/gMetapop/tree/master/5-Tutorials"> 5-Tutorials</A> folder.**
 
-** Upcoming examples of text files
+**Upcoming examples of text files
 * More complex GENOTYPE FILES with comments
 * fitness values for Selection Tab
 * selection within pop / optimal pheno values
