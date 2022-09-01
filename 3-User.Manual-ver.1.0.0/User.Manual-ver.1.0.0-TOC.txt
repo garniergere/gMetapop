@@ -86,7 +86,7 @@ CONTENTS
   3.8.1 Working directory
   3.8.2 Saving the parameter *.xml file 
   3.8.3 Genotypes
-  3.8.4 Type of result file: type.txt
+  3.8.4 Type of result file
   3.8.5 Log file creation window
   3.8.6 Prepare configuration files
   3.8.7 Run gMetapop_CORE
