@@ -8,7 +8,7 @@ Download the compressed files corresponding to your Operating System (Windows 64
 gMetapop_GUI is developed in C++ with open-source Qt libraries (https://www.qt.io). These are provided in the current distribution, but additional libraries might be needed if they are not already available from your OS, so please type first: 
 > sudo apt-get install libxcb-xinerama0 >
 Then in the folder where the files have been unzipped, type in command line:
-> sh ./run_gM_GUI_Linux64.sh >
+> sh ./run_gM_GUI_Linux64.sh <
  or simply 
 > ./ run_gM_GUI_Linux64.sh >
 which should launch the GUI application. 
