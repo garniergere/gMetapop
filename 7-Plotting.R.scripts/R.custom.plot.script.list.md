@@ -1,3 +1,1 @@
-R script list for custom plots (as described in the Chapter 5 describing tutorials of the User Manual) :
-
-* These scripts are all available in the customp.rscript.zip
+ The customp.rscript.zip includes all R scripts for custom plots that are used in the tutorials of Chapter 5 of the User Manual.
