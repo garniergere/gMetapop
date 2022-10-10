@@ -1,6 +1,6 @@
 INSTALLATION INSTRUCTIONS
 
-Download the compressed files corresponding to your Operating System (Windows 64 bits=Win64, Linux 64 bits=Linux64, or Windows 32 bits=Win32), and extract them into a folder of your choice:
+Download the compressed files corresponding to your Operating System (Windows 64 bits=Win64 or Linux 64 bits=Linux64), and extract them into a folder of your choice:
 
 * Under Win64, click on the gMetapop_GUI_Win64.exe to launch gMetapop_GUI, from which gMetapop_CORE_Win64.exe can be launched.
 
