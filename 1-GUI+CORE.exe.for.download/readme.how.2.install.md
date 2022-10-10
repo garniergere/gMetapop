@@ -9,7 +9,7 @@ gMetapop_GUI is developed in C++ with open-source Qt libraries (https://www.qt.i
 > sudo apt-get install libxcb-xinerama0
 
 Then in the folder where the files have been unzipped, the GUI application is launched by typing in command lines:
-> sh ./run_gM_GUI_Linux64.sh 
+> sh run_gM_GUI_Linux64.sh 
 
  or simply 
 > ./ run_gM_GUI_Linux64.sh 
