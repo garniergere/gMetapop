@@ -16,4 +16,4 @@ Then in the folder where the files have been unzipped, the GUI application is la
 
 which should launch the GUI application. 
 
-In case of installation problems, in particular for gMetapop_GUI under some Linux OS, please contact Frédéric Raspail (frederic.raspail@inrae.fr) or Pauline Garnier-Géré (pauline.garnier-gere@inrae.fr). If needed, we can also provide a *.exe* files for a 32-bit Windows OS. 
+In case of installation problems, in particular for gMetapop_GUI under some Linux OS, please contact Frédéric Raspail (frederic.raspail@inrae.fr) or Pauline Garnier-Géré (pauline.garnier-gere@inrae.fr). If needed, we can also provide \*.exe files for a 32-bit Windows OS. 
