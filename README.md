@@ -22,6 +22,8 @@ Two main components constitute the program:
 
 •	Additional format examples can be seen <A HREF="https://github.com/gMetapop/gMetapop/tree/master/4-Format.Examples"> here</A>
 
+•	Updated versions of the R script for plotting summary statistics across generations can be found <A HREF="https://github.com/gMetapop/gMetapop/tree/master/7-Plotting.R.scripts"> here</A> and simply need to be copied into the folder with the *.exe files.
+
 ## Help ##
 Various sources of Help are available: 
 
