@@ -27,7 +27,7 @@ Two main components constitute the program:
 ## Help ##
 Various sources of Help are available: 
 
-•	Default parameter values proposed in the GUI and automatically loaded in the GUI when making a new param file. We chose them so that they were plausible in scenarios corresponding to non-extreme biological conditions. Therefore, users can keep those values as starting points for preliminary tests that focus on particular parameters, provided that they carefully checked if those are compatible with the organisms that they have in mind.
+•	Default parameter values proposed and automatically loaded in the GUI when making a new param file. We chose them so that they were plausible in scenarios corresponding to non-extreme biological conditions. Therefore, users can keep those values as starting points for preliminary tests that focus on particular parameters, provided that they carefully checked if those are compatible with the organisms that they have in mind.
 
 •	Tooltips appear on screen that describe tabs and parameters within the GUI, when moving the “mouse” on the each sub-window/group-box part of the GUI in a Tab. Tooltips are small texts providing definitions and main use of the corresponding GUI options, for a rapid and intuitive appraisal of particular aspects of the modelled processes (see more explanations in Chapter 3 User Manual for each GUI option). 
 
