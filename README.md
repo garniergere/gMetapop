@@ -10,7 +10,7 @@ One main advantage of this tool is its flexible Graphical User Interface (GUI), 
 
 Two main components constitute the program:  
 
-•	gMetapop_GUI, the interface program which guides the user for designing simulations, launching them, and getting results graphical overview. Technically, the GUI creates a .xml parameter configuration file (param hereafter) with all initial settings and files needed for a simulation run.
+•	gMetapop_GUI, the interface program which guides the user for designing simulations, launching them, and getting results graphical overview. Technically, the GUI creates a .xml parameter configuration file (*param* hereafter) with all initial settings and files needed for a simulation run.
 
 •	gMetapop_CORE, the program that takes these files as input to perform the simulations. gMetapop_CORE can be launched directly from the GUI or using command lines under Linux or Windows DOS command prompt. gMetapop_CORE initially stemmed from previous programs that included separate and complementary features (Le Corre et al., 1997; Austerlitz et al. 2000; Machon et al., 2003; Austerlitz & Garnier-Géré 2003; Le Corre and Kremer, 2003). However in this first release, 88% of the whole program code is new (70%) or has been largely modified or extended (18%). 
 
@@ -27,7 +27,7 @@ Two main components constitute the program:
 ## Help ##
 Various sources of Help are available: 
 
-•	Default parameter values proposed and automatically loaded in the GUI when making a new param file. We chose them so that they were plausible in scenarios corresponding to non-extreme biological conditions. Therefore, users can keep those values as starting points for preliminary tests that focus on particular parameters, provided that they carefully checked if those are compatible with the organisms that they have in mind.
+•	Default parameter values proposed and automatically loaded in the GUI when making a new *param* file. We chose them so that they were plausible in scenarios corresponding to non-extreme biological conditions. Therefore, users can keep those values as starting points for preliminary tests that focus on particular parameters, provided that they carefully checked if those are compatible with the organisms that they have in mind.
 
 •	Tooltips appear on screen that describe tabs and parameters within the GUI, when moving the “mouse” on the each sub-window/group-box part of the GUI in a Tab. Tooltips are small texts providing definitions and main use of the corresponding GUI options, for a rapid and intuitive appraisal of particular aspects of the modelled processes (see more explanations in Chapter 3 of the User Manual for each GUI option). 
 
