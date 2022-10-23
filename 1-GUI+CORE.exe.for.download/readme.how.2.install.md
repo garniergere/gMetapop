@@ -19,7 +19,9 @@ which should launch the GUI application.
 * Connecting the R software to the GUI: in order to obtain plots of results after a simulation run, you need to: 
 
 a) Click on "File/Choose R path" in the Menu, once only, 
+
 b) Select the main folder where the last version of R has been installed (e.g. .../R-3.5.0 or later versions), 
+
 c) Then click on "File/Default plot" in the Menu.
 
 In case of installation problems, in particular for gMetapop_GUI under some Linux OS, please contact Frédéric Raspail (frederic.raspail@inrae.fr) or Pauline Garnier-Géré (pauline.garnier-gere@inrae.fr). If needed, we can also provide \*.exe files for a 32-bit Windows OS. 
