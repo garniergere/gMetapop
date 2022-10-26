@@ -25,3 +25,11 @@ b) Select the main folder where the last version of R has been installed (e.g. .
 c) Then click on "File/Default plot" in the Menu.
 
 In case of installation problems, in particular for gMetapop_GUI under some Linux OS, please contact Frédéric Raspail (frederic.raspail@inrae.fr) or Pauline Garnier-Géré (pauline.garnier-gere@inrae.fr). If needed, we can also provide \*.exe files for a 32-bit Windows OS. 
+
+* Connecting the last version of the User Manual to the GUI: 
+
+a) The last updated version of the user Manual is available here
+
+b) The first complete version distributed with the release 1.0.0 of the program is identified by its date and version on the first page. 
+
+c) In case of a separate update of the User Manual from that of the GUI, it will be included in the distributed files and changes described here. Just copy the new version in the *.exe* folder to access the new version from the GUI.  
