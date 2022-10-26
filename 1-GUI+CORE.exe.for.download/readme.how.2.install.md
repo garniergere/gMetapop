@@ -28,7 +28,7 @@ In case of installation problems, in particular for gMetapop_GUI under some Linu
 
 * Connecting the last version of the User Manual to the GUI: 
 
-a) The last updated version of the user Manual is available here
+a) The last updated version of the user Manual is available **<A HREF="https://github.com/gMetapop/gMetapop/tree/master/3-User.Manual-ver.1.0.0"> here</A>**
 
 b) The first complete version distributed with the release 1.0.0 of the program is identified by its date and version on the first page. 
 
