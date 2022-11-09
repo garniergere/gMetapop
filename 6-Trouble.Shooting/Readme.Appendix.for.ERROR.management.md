@@ -6,4 +6,5 @@ For bug reporting:
 You can declare a "New Issue" (green button) in the "Issues" page,  
 
 or contact Frédéric Raspail at frederic.raspail@inrae.fr or Pauline Garnier-Géré at pauline.garnier-gere@inrae.fr
+
 Thank you.
