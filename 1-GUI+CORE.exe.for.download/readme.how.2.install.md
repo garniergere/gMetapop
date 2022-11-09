@@ -1,3 +1,6 @@
+UPDATES
+22-11-09 --> The first release v1.0.0 will be uploaded soon
+
 INSTALLATION INSTRUCTIONS
 
 Download the compressed files corresponding to your Operating System (Windows 64 bits=Win64 or Linux 64 bits=Linux64), and extract them into a folder of your choice:
