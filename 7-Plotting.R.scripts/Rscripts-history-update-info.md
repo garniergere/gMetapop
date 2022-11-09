@@ -1,7 +1,10 @@
 
-You can find here updated versions of the **Plot.gM.perGen.R** and **Plot.gM.perGen.zoom.R** scripts that allow to vizualise summary statistics across generations in simulation runs.
+You can find here updated versions of the **Plot.gM.perGen.R** and **Plot.gM.perGen.zoom.R** scripts that allow to vizualise summary statistics across generations in simulation runs. Check the date of the script at the start of the file to make sure you have the last version. 
 
 The files just need to be copied in the folder with executable files of gMetapop to replace current versions. A list of changes can be found here:
 
 NB: The **customp.rscript.zip** includes all R scripts for custom plots that are used in the tutorials of Chapter 5 of the User Manual.
+
+UPDATES
+22-11-09 --> customp.rscript.zip will be uploaded soon
 
