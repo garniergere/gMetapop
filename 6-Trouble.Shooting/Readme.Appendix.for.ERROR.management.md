@@ -1,7 +1,7 @@
 This appendix of the User Manual provides more information on dealing with errors when running gMetapop. 
 This first version will be updated regularly based on feedback from users, and following versions.
 
-22-11-09 New version uploaded soon. 
+22-11-25 Last updated version has been uploaded. 
 
 For bug reporting: 
 
