@@ -5,7 +5,7 @@ A process-based forward simulator with an intuitive Graphical User Interface int
 
 ## How to cite gMetapop? ##
 
-Raspail F, Austerlitz F, Mariette S, Machon N, Le Corre V, Baradat D, Gouyon P-H, Godelle B, Kremer A, Garnier-Géré P (2021) gMetapop: : a process-based forward simulator with an intuitive Graphical User Interface integrating multi-locus genetics and complex age class structure demography in subdivided populations. In preparation
+Raspail F, Austerlitz F, Mariette S, Machon N, Le Corre V, Baradat D, Gouyon P-H, Godelle B, Kremer A, Garnier-Géré P (2023) gMetapop: : a process-based forward simulator with an intuitive Graphical User Interface integrating multi-locus genetics and complex age class structure demography in subdivided populations. In preparation
 
 ## License ##
 
